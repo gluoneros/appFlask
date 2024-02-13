@@ -1,1 +1,5 @@
-/home/usuario/Downloads/platzi-flask-0018f90d8073a528cb79419e244b2622c1d68b26/requirements.txt
+flask
+flask-bootstrap
+flask-wtf
+flask-testing
+blinker
