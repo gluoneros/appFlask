@@ -5,8 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/flask" />
       <excludeFolder url="file://$MODULE_DIR$/fvenv/include/python3.11" />
       <excludeFolder url="file://$MODULE_DIR$/fvenv/include/python" />
+      <excludeFolder url="file://$MODULE_DIR$/fvenv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (appFlask)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
